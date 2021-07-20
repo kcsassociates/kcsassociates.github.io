@@ -1795,6 +1795,10 @@ section {
   transition: 0.3s;
 }
 
+.mr-20 {
+  margin-right: 20px !important;
+}
+
 @media (max-width: 768px) {
   #footer .footer-bottom {
     padding-top: 20px;
