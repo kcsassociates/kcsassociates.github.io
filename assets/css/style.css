@@ -1799,6 +1799,11 @@ section {
   margin-right: 20px !important;
 }
 
+.accordion-color{
+  background-color: #3c4c6a;
+  color: #FFFFFF;
+}
+
 @media (max-width: 768px) {
   #footer .footer-bottom {
     padding-top: 20px;
