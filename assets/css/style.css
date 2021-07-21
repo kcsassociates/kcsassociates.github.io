@@ -1802,6 +1802,7 @@ section {
 .accordion-color{
   background-color: #3c4c6a;
   color: #FFFFFF;
+  font-size: 18px;
 }
 
 @media (max-width: 768px) {
